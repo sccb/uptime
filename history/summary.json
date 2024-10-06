@@ -4,17 +4,19 @@
     "url": "https://zany25.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/zany25.serv00.net.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 596,
-    "timeWeek": 596,
-    "timeMonth": 596,
-    "timeYear": 596,
-    "dailyMinutesDown": {}
+    "time": 705,
+    "timeDay": 763,
+    "timeWeek": 705,
+    "timeMonth": 705,
+    "timeYear": 705,
+    "dailyMinutesDown": {
+      "2024-10-06": 0
+    }
   }
 ]
